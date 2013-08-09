@@ -1,0 +1,11 @@
+{
+  "name": "CanvasApi",
+  "version": "0.0.0",
+  "description": "CanvasApi Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nick Cloward",
+  "license": "BSD"
+}
