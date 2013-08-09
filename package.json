@@ -4,8 +4,6 @@
   "description": "CanvasApi Assignment",
   "main": "server.js",
   "scripts": {
-    "test": "test"
   },
-  "author": "Nick Cloward",
-  "license": "BSD"
+  "author": "Nick Cloward"
 }
